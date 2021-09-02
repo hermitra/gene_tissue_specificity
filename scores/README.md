@@ -1,4 +1,4 @@
-# Tissue/Gene specificity Scoring
+# Tissue / Gene specificity scoring
 
 ## Introduction
 In this project, the goal is to find the most tissue specific genes.
