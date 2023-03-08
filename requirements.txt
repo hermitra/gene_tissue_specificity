@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplolib.pyplot
+time
+scipy
+joblib
+sys
+os
